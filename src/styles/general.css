@@ -10,7 +10,8 @@
   font-family: "Magic Romance Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Magic Romance Regular"), url("Magic Romance.woff") format("woff");
+  src: local("Magic Romance Regular"),
+    url("fonts/magic_romance/MagicRomance.woff") format("woff");
 }
 /**Google font linket i head i mainlayout**/
 /**<uniquifier>: Use a unique and descriptive class name**/
