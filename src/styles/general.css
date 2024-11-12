@@ -39,7 +39,7 @@ html {
 body {
   background-color: var(--tertiary);
 }
-h2 {
+h1 {
   font-family: var(--font1);
   font-size: 40px;
   color: var(--primary);
